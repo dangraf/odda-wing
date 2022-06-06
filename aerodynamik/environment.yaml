@@ -1,0 +1,10 @@
+name: oddawing
+dependencies:
+- python=3.8
+- anaconda
+- pip
+- notebook
+- pythreejs
+- pip:
+  - aerosandbox
+  - panel
